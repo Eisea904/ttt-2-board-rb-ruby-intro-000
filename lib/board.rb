@@ -1,4 +1,4 @@
 # Define the variable board below.
-board = Var.new
+var = "board"
 board = Array.new
-board = = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
